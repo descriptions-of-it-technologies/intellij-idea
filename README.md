@@ -33,6 +33,8 @@
 * [Rainbow Brackets.]()
 * [Ideolog.]()
 * [SonarLint.]()
+* [Grep Console.]()
+* []()
 
 
 
