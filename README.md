@@ -40,4 +40,11 @@
 
 
 
+## Console commands.
+* `idea .`
+
+
+
+
+
 ## Help.
